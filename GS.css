@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: lightblue;
+}
+
+canvas {
+    height: 200px;
+    border: 2px solid darkgray;
+    background: white;
+}
+
+input {
+    text-align: center;
+    font-size: 12pt;
+}
